@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">5.2.1</string>
+    <string name="signin">Войти / Зарегистрироваться</string>
+    <string name="login">login</string>
+    <string name="registration">registration</string>
+    <string name="password">password</string>
+
+</resources>
